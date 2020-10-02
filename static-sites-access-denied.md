@@ -1,6 +1,6 @@
 # How to Fix Access Denied Error for S3 React Static Site
 
-```
+```xml
 This XML file does not appear to have any style information associated with it. The document tree is shown below.
 <Error>
   <Code>AccessDenied</Code>
@@ -10,6 +10,6 @@ This XML file does not appear to have any style information associated with it. 
 </Error>
 ```
 
-<img src="https://s3.amazonaws.com/blog.timpile.io/images/cloudfront-distribution.png" alt="CloudFront Distribution for Static Site" style="width: 300px;"/>
+<img src="https://s3.amazonaws.com/blog.timpile.io/images/cloudfront-distribution.png" alt="CloudFront Distribution for Static Site"/>
 
-<img src="https://s3.amazonaws.com/blog.timpile.io/images/cloudfront-custom-error-response.png" alt="CloudFront Custom Error Response" style="width: 300px;"/>
+<img src="https://s3.amazonaws.com/blog.timpile.io/images/cloudfront-custom-error-response.png" alt="CloudFront Custom Error Response"/>
